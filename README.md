@@ -1,4 +1,4 @@
-# Bharti Kumari – Data Analyst Resume
+# Bharti Kumari 
 
 This repository contains the latest version of my resume, focused on **Excel-driven analysis and Python-based data processing**, with supporting experience in SQL and Power BI.
 
